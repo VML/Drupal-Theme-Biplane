@@ -2,7 +2,7 @@ name: Biplane
 type: theme
 description: 'A basic, no-frills HTML5 starter theme.'
 package: VMLY&R
-core: 8.x
+core_version_requirement: ^8 | ^9
 base theme: bazo
 
 ckeditor_stylesheets:
